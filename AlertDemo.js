@@ -48,7 +48,7 @@ export default function CustomStyles() {
     <ThemeProvider theme={theme}>
       <Box
       sx={{height:"10vh"}}>
-      <StyledAlert variant="d" color="error" severity="Warning" sx={{
+      <StyledAlert variant="d" color="error" severity="warning" sx={{
         width: "50vw",
         height: "5vh",
         border:"2px solid #DCDCDC",
